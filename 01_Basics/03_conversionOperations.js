@@ -55,11 +55,24 @@ let valueInNumber5 = Number(score5)
 // "33abc" => NaN
 // true => 1; false => 0
 
-let isLoggedIn = "abc"
+let isLoggedIn = 0
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 // 0 => false; 1 => true
 // "" => false; "abc..." => true
 // null => false; undefined => false
+
+let someNumber = 45
+
+let stringNumber = String(someNumber)
+
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// 45 => "45"
+// null => "null"
+// undefined => "undefined"
+// false => "false"; true => "true"
+
