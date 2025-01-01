@@ -37,3 +37,5 @@ console.log(typeof myObj); // => Object
 console.log(typeof avengers); // => Object (Array)
 
 //JavaScript is dynamically typed, which means that the type of a variable is assigned at runtime based on the value of the variable
+
+// Link to Study: https://262.ecma-international.org/5.1/#sec-11.4.3
