@@ -23,7 +23,7 @@ console.log(undefined > 0); // false
 console.log(undefined == 0); // false
 console.log(undefined >= 0); // false
 
-// === Stict Check (Checks values strictly i.e. it also checks datatypes)
+// ===  -->  Strict Check (Checks values strictly i.e. it also checks datatypes)
 
 console.log("2" === 2); // false
 
