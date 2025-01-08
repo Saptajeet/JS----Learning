@@ -28,7 +28,7 @@ console.log(gameName.indexOf('a'));
 const subString = gameName.substring(0,4); // end index is not included
 console.log(subString);
 
-const sliceString = gameName.slice(-7,4); // cannot use (-ve) values in  substring method
+const sliceString = gameName.slice(-11,4); // cannot use (-ve) values in  substring method
 console.log(sliceString);
 
 const trimmedString = "    Trim Me     "
